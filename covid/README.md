@@ -1,3 +1,33 @@
+
+This is a Covid-19 tracker app that I built following along with a video from "JavaScript Mastery" channel. It was my first time working with the "React js" framework and it was a good experience and I learned some good stuff :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
