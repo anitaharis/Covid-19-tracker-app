@@ -1,3 +1,3 @@
 # Covid-19-tracker app
 
-This is a Covid-19 tracker app that I built following along with a video from "JavaScript Mastery" channel. It was my first time working with the "React js" framework and it was a good experience and I learned some good stuff :)
+I built this app by watching a youtube video from "JavaScript Mastery" channel. It was quite an experience learning React js and using API in an application. 
